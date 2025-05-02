@@ -1,0 +1,3 @@
+@echo off
+echo Starting DefenseEye servers...
+start npm run dev

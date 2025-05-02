@@ -1,0 +1,7 @@
+Resource Name,Resource Type,Category,Severity,Description,Location,Compliance Status
+Storage Account,Storage,Access Control,High,Public access enabled on storage account,West US,Non-Compliant
+Virtual Machine,Compute,Network Security,Medium,Missing NSG rules,vnet-eastus,Partially Compliant
+SQL Database,Database,Encryption,Low,Transparent Data Encryption not enabled,centralus,Non-Compliant
+Key Vault,Secret Management,Access Control,High,Missing backup policy,East US,Non-Compliant
+Network Security Group,Network,Firewall,Medium,Permissive inbound rules,East US,Partially Compliant
+App Service,Web,Authentication,Low,Missing authentication configuration,West US,Non-Compliant

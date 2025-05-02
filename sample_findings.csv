@@ -1,0 +1,4 @@
+id,category,resource,severity,state,create_time,description
+1,Network Security,Web Server,HIGH,ACTIVE,2025-04-30T17:12:56-07:00,Unauthorized access detected
+2,Data Protection,Database,MEDIUM,ACTIVE,2025-04-30T17:12:56-07:00,Encryption key rotation overdue
+3,System Configuration,Firewall,LOW,ACTIVE,2025-04-30T17:12:56-07:00,Default password detected
